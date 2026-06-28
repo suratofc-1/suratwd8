@@ -1,0 +1,20 @@
+{
+  "name": "SURAT4D - Akses Hiburan Online",
+  "short_name": "SURAT4D",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#061434",
+  "theme_color": "#061434",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
