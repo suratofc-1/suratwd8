@@ -4,9 +4,9 @@ import { useState } from "react";
 import { useRouter } from "next/navigation";
 
 const BUTTONS = [
-  { icon: "🔗", label: "LINK DAFTAR", href: "https://suratfordi.info/register" },
-  { icon: "🔗", label: "LINK ALTERNATIF", href: "https://suratfordi.info/" },
-  { icon: "🔗", label: "PROMOSI SURAT4D", href: "https://suratfordi.info/m/promosi" },
+  { icon: "🔗", label: "LINK DAFTAR", href: "https://shorthe.link/SURAT4D" },
+  { icon: "🔗", label: "LINK ALTERNATIF", href: "https://shorthe.link/SURAT4D" },
+  { icon: "🔗", label: "PROMOSI SURAT4D", href: "https://shorthe.link/SURAT4D" },
   { icon: "🔗", label: "TELEGRAM RESMI", href: "https://t.me/maxwinslotsurat4d" }
 ];
 

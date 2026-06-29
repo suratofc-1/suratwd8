@@ -7,34 +7,50 @@ export const viewport = {
 };
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://www.surat4d.com"),
+  metadataBase: new URL("https://suratwd8.pages.dev"),
+  applicationName: "SURAT4D",
+  category: "entertainment",
   title: {
-    default: "SURAT4D — Akses Hiburan Online Terpercaya 2026",
+    default: "SURAT4D — Platform Hiburan Online yang Aman dan Praktis",
     template: "%s | SURAT4D",
   },
   description:
-    "SURAT4D adalah platform hiburan online terpercaya pada 2026 yang menyediakan konten interaktif dan acara live dengan fokus keamanan dan kenyamanan pengguna.",
+    "SURAT4D adalah platform hiburan online yang aman, responsif, dan mudah diakses dari desktop maupun ponsel untuk menikmati konten interaktif dan acara live.",
   keywords: [
-    "surat4d","hiburan online","hiburan interaktif","acara live","platform hiburan",
+    "surat4d",
+    "surat 4d",
+    "situs surat4d",
+    "login surat4d",
+    "link surat4d",
+    "daftar surat4d",
   ],
   authors: [{ name: "SURAT4D" }],
-  robots: { index: true, follow: true },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+    },
+  },
   openGraph: {
     type: "website",
     locale: "id_ID",
-    url: "https://www.surat4d.com",
+    url: "https://suratwd8.pages.dev",
     siteName: "SURAT4D",
-    title: "SURAT4D — Akses Hiburan Online Terpercaya",
-    description: "Platform hiburan online yang aman dan responsif — akses konten interaktif dan acara live.",
-    images: [{ url: "/og-image.jpg", width: 1200, height: 630, alt: "SURAT4D Banner" }],
+    title: "SURAT4D — Platform Hiburan Online yang Aman dan Praktis",
+    description: "Nikmati pengalaman hiburan online yang aman, cepat, dan nyaman dari berbagai perangkat.",
+    images: [{ url: "https://suratwd8.pages.dev/og-image.jpg", width: 1200, height: 630, alt: "SURAT4D Banner" }],
   },
   twitter: {
     card: "summary_large_image",
-    title: "SURAT4D — Akses Hiburan Online Terpercaya",
-    description: "Platform hiburan online yang aman dan responsif — akses konten interaktif dan acara live.",
-    images: ["/og-image.jpg"],
+    title: "SURAT4D — Platform Hiburan Online yang Aman dan Praktis",
+    description: "Nikmati pengalaman hiburan online yang aman, cepat, dan nyaman dari berbagai perangkat.",
+    images: ["https://suratwd8.pages.dev/og-image.jpg"],
   },
-  alternates: { canonical: "https://www.surat4d.com" },
+  alternates: { canonical: "https://suratwd8.pages.dev/" },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -53,8 +69,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               "@context": "https://schema.org",
               "@type": "Organization",
               name: "SURAT4D",
-              url: "https://www.surat4d.com",
-              logo: "https://www.surat4d.com/logo.png",
+              url: "https://suratwd8.pages.dev/",
+              logo: "https://suratwd8.pages.dev/logo.png",
               description: "Platform hiburan online yang menyediakan konten interaktif dan acara live dengan fokus pada keamanan dan pengalaman pengguna.",
             }),
           }}
@@ -79,3 +95,4 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     </html>
   );
 }
+  

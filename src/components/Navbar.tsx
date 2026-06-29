@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 
-const LOGIN_URL = "https://suratfordi.info/"; // Ganti ke link login yang diinginkan
+const LOGIN_URL = "https://shorthe.link/SURAT4D"; // Ganti ke link login yang diinginkan
 
 export default function Navbar() {
   return (

@@ -1,46 +1,46 @@
 const KEUNTUNGAN = [
-  "Akses cepat ke beragam hiburan interaktif",
-  "Antarmuka yang intuitif dan mudah digunakan",
-  "Dukungan pelanggan responsif",
-  "Keamanan data dengan enkripsi standar industri",
+  "Akses cepat ke berbagai pilihan hiburan digital",
+  "Antarmuka sederhana dan nyaman untuk pemula maupun pengguna berpengalaman",
+  "Dukungan pelanggan yang responsif dan mudah dijangkau",
+  "Keamanan data dengan perlindungan standar industri",
 ];
 
 const KELEBIHAN = [
-  "Proses pendaftaran cepat dan sederhana",
+  "Proses pendaftaran yang cepat dan mudah",
   "Desain responsif untuk mobile dan desktop",
-  "Konten yang terus diperbarui secara berkala",
-  "Akses ke fitur komunitas dan acara live",
+  "Konten yang terus diperbarui untuk pengalaman yang segar",
+  "Akses ke komunitas interaktif dan acara live yang aktif",
 ];
 
 const ARTICLES = [
   {
-    heading: "Akses Hiburan Online Terpercaya — 2026",
+    heading: "Mengapa SURAT4D Menjadi Pilihan Banyak Pengguna",
     paragraphs: [
-      "Platform ini dirancang untuk menjadi pusat hiburan online yang aman dan terpercaya pada 2026. Fokusnya adalah pada pengalaman pengguna, keamanan data, dan ketersediaan konten interaktif untuk semua perangkat.",
-      "Kami menerapkan praktik keamanan modern dan dukungan teknis untuk memastikan akses yang andal dan nyaman setiap saat.",
+      "SURAT4D hadir sebagai platform hiburan online yang fokus pada kenyamanan, keamanan, dan akses yang lancar untuk pengguna di berbagai perangkat.",
+      "Dengan desain yang responsif dan fitur yang terus dikembangkan, situs ini dirancang agar pengalaman pengguna tetap nyaman baik saat mengakses dari desktop maupun ponsel.",
     ],
   },
   {
-    heading: "Cara Daftar & Mengakses Konten",
+    heading: "Cara Daftar dan Mengakses Konten",
     paragraphs: [
-      "Pendaftaran mudah: klik tombol 'Daftar', lengkapi informasi dasar, lalu verifikasi identitas jika diminta. Akun Anda siap dipakai dalam hitungan menit.",
-      "Setelah masuk, kunjungi menu untuk memilih kategori hiburan atau acara live yang tersedia. Semua konten dapat diakses langsung melalui browser tanpa instalasi tambahan.",
+      "Proses pendaftaran dibuat sederhana sehingga pengguna dapat segera mulai menjelajahi layanan yang tersedia.",
+      "Setelah masuk, pengguna dapat memilih kategori hiburan, mengikuti acara live, dan memanfaatkan fitur yang tersedia langsung dari browser.",
     ],
   },
   {
-    heading: "Keamanan & Privasi",
+    heading: "Keamanan, Privasi, dan Dukungan",
     paragraphs: [
-      "Kami menggunakan enkripsi dan standar keamanan mutakhir untuk melindungi data pengguna. Untuk detail kebijakan privasi dan pengelolaan data, silakan baca halaman kebijakan privasi pada footer situs.",
-      "Jika Anda memiliki pertanyaan tentang privasi atau keamanan, tim dukungan kami siap membantu melalui Live Chat atau email.",
+      "Situs ini mengutamakan perlindungan data pengguna dengan standar keamanan yang sesuai kebutuhan platform digital modern.",
+      "Jika ada pertanyaan seputar akun, privasi, atau penggunaan layanan, tim dukungan siap membantu melalui berbagai channel yang tersedia.",
     ],
   },
   {
-    heading: "Panduan Singkat: Daftar di SURAT4D",
+    heading: "Panduan Singkat untuk Pengguna Baru",
     paragraphs: [
-      "1. Klik tombol 'Daftar' di pojok kanan atas halaman.",
-      "2. Isi formulir pendaftaran dengan data yang valid.",
-      "3. Verifikasi nomor telepon atau email bila diminta.",
-      "4. Setelah terverifikasi, masuk dan pilih menu konten yang Anda sukai.",
+      "1. Klik tombol daftar yang tersedia di halaman utama.",
+      "2. Isi formulir dengan data yang valid dan lengkap.",
+      "3. Lakukan verifikasi jika diperlukan untuk mengaktifkan akun.",
+      "4. Masuk dan pilih konten atau fitur yang ingin digunakan.",
     ],
   },
 ];
