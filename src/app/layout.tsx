@@ -62,6 +62,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <link rel="apple-touch-icon" sizes="180x180" href="/logo.png?v=2" />
         <link rel="manifest" href="/site.webmanifest?v=2" />
         <meta name="theme-color" content="#061434" />
+        <meta name="google-site-verification" content="Rjok25XKnyydWvMR10Iw7ypwr8VEUW3hDvf--Za_Txo" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
